@@ -1,2 +1,2 @@
-function nazo2(){if(document.getElementById('answer2').value=='マイク・ワゾウスキ'){alert('あたり!');}
+function nazo2(){if(document.getElementById('answer2').value=='オラフ'){alert('あたり!');}
                 else{alert('はずれ');}}
